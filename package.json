@@ -1,0 +1,25 @@
+{
+    "name": "hubot-plex",
+    "description": "An example script pacakage for Hubot",
+    "version": "1.0.0",
+    "author": "James Walker <walkah@walkah.net>",
+    "license": "MIT",
+    "keywords": [
+        "hubot",
+        "hubot-scripts",
+        "plex"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/walkah/hubot-plex.git"
+    },
+    "bugs": {
+        "url": "https://github.com/walkah/hubot-plex/issues"
+    },
+
+    "dependencies": {
+        "coffee-script": "~1.6"
+    },
+
+    "main": "index.coffee"
+}
