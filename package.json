@@ -1,6 +1,6 @@
 {
     "name": "hubot-plex",
-    "description": "An example script pacakage for Hubot",
+    "description": "A hubot script to interact with a Plex Media Server",
     "version": "1.0.0",
     "author": "James Walker <walkah@walkah.net>",
     "license": "MIT",
