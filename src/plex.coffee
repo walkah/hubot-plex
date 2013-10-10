@@ -10,7 +10,7 @@
 #   hubot plex now playing - show what is currently playing 
 # 
 # Author
-#   James Walker <walkah@walkah.net>
+#   walkah
 
 module.exports = (robot) ->
   robot.respond /plex on(\s+)?deck/i, (msg) ->
